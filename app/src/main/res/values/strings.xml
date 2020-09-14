@@ -11,5 +11,5 @@
     <string name="oneCorrect">You have one answer correct!</string>
     <string name="twoCorrect">You have two answers correct!</string>
     <string name="threeCorrect">You have three answers correct!</string>
-    <string name="fourCorrect">You have all answers correct!</string>
+    <string name="fourCorrect">Congratulations, you have all answers correct!</string>
 </resources>
